@@ -1,0 +1,13 @@
+[package]
+name = "lib-endian"
+version = "0.1.0"
+edition = "2021"
+authors = ["Wzh <wzh@uvwee.com>"]
+description = "The simplest library for storing a value while handling byte order or for obtaining the byte order of the current target."
+license = "MIT"
+keywords = ["endian"]
+repository = "https://github.com/wzh19960613/rust-endian"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
